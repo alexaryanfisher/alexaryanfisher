@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there 👋 I'm Alexa!
 
-<!--
-**alexaryanfisher/alexaryanfisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations-focused data analyst building reporting, dashboarding, and data pipeline projects with SQL, Power BI, Excel, and Python.
 
-Here are some ideas to get you started:
+I have 10+ years of experience using data to support operational decisions, improve reporting, and solve workflow problems across planning, inventory, procurement, and cross-functional business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Highlights
+
+- **Operations KPI Dashboard – Manufacturing & Supply Chain**  
+  End-to-end operations reporting project using SQL, PostgreSQL, Excel, Power Query, and Power BI/Tableau. Built an interactive dashboard to track production performance, backlog, and delivery risk, with a documented data pipeline from raw ERP exports to analysis-ready tables.
+
+- **Top 100 Thai Dramas Web Scraping and Data Cleaning Pipeline**  
+  Python-based web scraping and data engineering project using requests, BeautifulSoup, pandas, and numpy. Scrapes, cleans, and merges metadata from MyDramaList into a structured dataset suitable for exploratory analysis, reporting, and visualization.
+
+---
+
+## Skills
+
+**Analytics & BI**  
+SQL · Power BI · KPI Reporting · Dashboard Development · Trend Analysis · Root Cause Analysis · Operational Reporting · Data Visualization
+
+**Data Tools**  
+Excel (Pivot Tables, advanced formulas, macros) · Power Query · PostgreSQL · Data Validation
+
+**Programming & Automation**  
+Python · Office Scripts · Excel automation · Workflow standardization · Process improvement
+
+---
+
+## Projects
+
+- [Operations KPI Dashboard – Manufacturing & Supply Chain](https://github.com/alexaryanfisher/operations_kpi_dashboard)  
+- [Top 100 Thai Dramas Web Scraping and Data Cleaning Pipeline](https://github.com/alexaryanfisher/top-100-thai-drama-web-scraping)  
+
+
+---
+
+## Links
+
+- **LinkedIn:** https://www.linkedin.com/in/alexaryanfisher  
+- **Email:** alexaryanfish@gmail.com
