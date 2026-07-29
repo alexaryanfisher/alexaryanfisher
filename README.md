@@ -22,13 +22,13 @@ I have 10+ years of experience using data to support operational decisions, impr
 ## Skills
 
 **Analytics & BI**  
-SQL · Power BI · KPI Reporting · Dashboard Development · Trend Analysis · Root Cause Analysis · Operational Reporting · Data Visualization
+SQL · Power BI · KPI reporting · Dashboard development · Trend analysis · Root cause analysis · Operational reporting · Data storytelling
 
 **Data Tools**  
-Excel (Pivot Tables, advanced formulas, macros) · Power Query · PostgreSQL · Data Validation
+Excel (Pivot Tables, advanced formulas, macros) · Power Query · PostgreSQL · Jupyter Notebooks · pandas · NumPy · scikit-learn · statsmodels · seaborn · matplotlib
 
 **Programming & Automation**  
-Python · Office Scripts · Excel automation · Workflow standardization · Process improvement
+Python (data cleaning, web scraping, regression modeling) · Office Scripts · Excel automation · Workflow standardization · Process improvement
 
 ---
 
